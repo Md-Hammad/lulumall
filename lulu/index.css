@@ -1,0 +1,23 @@
+.mall{
+    background-color: grey;
+}
+.fashion{
+    background-color: rgb(153, 105, 105)
+}
+.dine{
+    background-color: grey
+}
+.fun{
+    background-color: rgb(74, 178, 219);
+}
+.event{
+    background-color: white
+
+    ;
+}
+h1{
+    font-size: 100px;
+}
+p{
+    font-size: 50px;
+}
